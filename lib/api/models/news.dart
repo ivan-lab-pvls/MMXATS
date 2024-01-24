@@ -44,26 +44,6 @@ Like former Kentucky teammate Tyrese Maxey, Quickley has shown flashes of taking
         'https://cdn.basketballnews.com/fit-in/1024x0/filters:strip_exif():filters:quality(95)/images/story/11829/og12333_690w.jpg',
   ),
   News(
-    title: 'Pistons beat Raptors to snap NBA-record 28-game losing streak',
-    content: '''
-The Detroit Pistons have done it: They have won a basketball game.
-
-For the first time since October 28, the Pistons earned a victory after surviving a gritty game against the Toronto Raptors, 129-127. 
-
-Detroit avoided monumental infamy by finally snapping a 28-game losing skid, which was tied for the worst losing spell in NBA history.
-
-The Pistons were in a losing streak, yes, but it wasn’t like they were getting blown out of the gym from the get go; they were competitive throughout games until they faltered at the end. Their past six games have been decided by just 10 points or less, and it was only a matter of time before they could break through. 
-
-Detroit coach Monty Williams said prior to the game that the Pistons have been knocking on that door for victory — they just needed to find a way to finally blow it open — and they did last night. 
-
-“I’ve been in a ton of locker rooms... That’s a first for me… Guys were screaming. I was almost in tears,” Williams said after celebrating in the locker room. 
-
-It took a dominant game from Cade Cunningham, who had 30 points, 12 assists and 0 turnovers, to ultimately put the Pistons over the top. He became only the third player this season with the same numbers, joining Nikola Jokic and Tyrese Haliburton. Cunningham also became the first Piston to have a 30-10 game without a turnover since Chauncey Billups in 2008.
-''',
-    imageLink:
-        'https://cdn.basketballnews.com/fit-in/1024x0/filters:strip_exif():filters:quality(95)/images/story/11828/cade2_690w.jpg',
-  ),
-  News(
     title: 'Knicks acquire OG Anunoby in blockbuster trade with Raptors',
     content: '''
 For quite some time, the New York Knicks have been linked to Toronto Raptors forward OG Anunoby. On Saturday, they finally landed the 26-year-old in a blockbuster trade.
@@ -99,25 +79,7 @@ Jalen Green and Fred VanVleet combined for 64 points, but it was not enough as t
     imageLink:
         'https://cdn.basketballnews.com/fit-in/1024x0/filters:strip_exif():filters:quality(95)/images/story/11826/tyrese1_690w.jpg',
   ),
-  News(
-    title:
-        'Pistons drop 28th straight, tying NBA record for longest losing streak',
-    content: '''
-With Thursday's heartbreaking 122-128 overtime loss against the Boston Celtics, the Detroit Pistons' losing streak reached 28-consecutive games — tying the record for the longest losing spell in NBA history.
-
-The Pistons are tied with the Philadelphia 76ers, who lost 28-straight games across two seasons (2014-15 to 2015-16). Detroit now holds the longest single-season losing streak of all-time.
-
-The Pistons had their chances late in the game, even sending the game to overtime, but could not close out the Celtics. This was Boston's 22nd-straight win at home, where they are undefeated this season.
-
-Cade Cunningham led another spirited effort for Detroit, putting up 31 points, 9 assists and 6 rebounds, but he just could not will his team to victory. This comes after a herculean performance just two nights earlier against the Brooklyn Nets, when he had 41 points on 71% shooting. 
-
-Kristaps Porzingis helped the Celtics avoid disaster by tallying 35 points on 13-of-21 from the field and 8 boards, including a late dunk in transition to seal the game. 
-
-The Pistons will have another chance to put an end to this historic losing streak and try to evade NBA infamy when they face the Toronto Raptors at home on Saturday night. ''',
-    imageLink:
-        'https://cdn.basketballnews.com/fit-in/1024x0/filters:strip_exif():filters:quality(95)/images/story/11823/caddee22_690w.jpg',
-  ),
-  News(
+ News(
     title:
         'Victor Wembanyama fills stat sheet in win vs. Blazers, Scoot Henderson',
     content: '''
@@ -143,21 +105,6 @@ Cuban still has shares in the team and will reportedly still be in charge of bas
 The Mavericks are currently 18-12, which is the fifth-best record in the Western Conference. Led by Luka Doncic and Kyrie Irving, Dallas boasts the NBA's seventh-best offense (scoring 115.7 points per 100 possessions).''',
     imageLink:
         'https://cdn.basketballnews.com/fit-in/1024x0/filters:strip_exif():filters:quality(95)/images/story/11821/mccc_690w.jpg',
-  ),
-  News(
-    title: 'NBA joins celebration of first-ever World Basketball Day',
-    content: '''
-The NBA today announced its celebrations of the first-ever World Basketball Day. 
-
-Established by the United Nations on August 23 during the FIBA World Cup, World Basketball Day will be observed annually on Dec. 21 – the day Dr. James Naismith first introduced the game of basketball at the Springfield YMCA in 1891. 
-
-“The NBA family is thrilled to join the global basketball community in celebrating the first World Basketball Day,” said NBA Commissioner Adam Silver. “More than 130 years after Dr. James Naismith invented the game at the Springfield YMCA, World Basketball Day is a reminder of basketball’s ability to transcend borders, cultures and languages and unite people around the world.”
-
-Nearly 600 million people across the globe play basketball annually and basketball is the second-most popular sport in the world, while the number one team sport to play in the United States. 
-
-Alongside the National Basketball Players Association (NBPA), the National Collegiate Athletic Association (NCAA), USA Basketball and the International Basketball Federation (FIBA), the NBA family will honor the game and celebrate World Basketball Day through various programming such as youth clinics and respective social media campaigns – all demonstrating basketball’s societal contributions.''',
-    imageLink:
-        'https://cdn.basketballnews.com/fit-in/1024x0/filters:strip_exif():filters:quality(95)/images/story/11820/basketball_690w.jpg',
   ),
   News(
     title: 'NBA game viewership across ESPN and ABC up 16% from last season',

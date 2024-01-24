@@ -84,10 +84,6 @@
 		<data>
 		9zfEWU3TgJ1c5pIrYChntTVLyiA=
 		</data>
-		<key>flutter_assets/assets/icons/settings/photo.png</key>
-		<data>
-		AY2vqAdSNNsIJgSnDIYcfDoYjBo=
-		</data>
 		<key>flutter_assets/assets/logo.svg</key>
 		<data>
 		hr+/YTB7Em75OCQ2YVOAo/79KLw=
@@ -106,7 +102,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		9Vf18ANsqy+V+h2lyM9HKlnqmXU=
+		pPpZJIosj5LHRRZkEG3tWnyENgA=
 		</data>
 		<key>flutter_assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css</key>
 		<data>
@@ -260,13 +256,6 @@
 			3bFSINTuQ9uFhJqJ9TRGfco23aKd6CHXnCPrNZELz30=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/icons/settings/photo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			G/kM3OaUEUCzpcBMPoslDv89w/nF5vq+n8UtSGXALDY=
-			</data>
-		</dict>
 		<key>flutter_assets/assets/logo.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -299,7 +288,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QrM+FNAJid26p+egkY2NTgpn7aANEfyILmZDchCFW6A=
+			ybskJktFc820xZNlwi7cIrNsCA2uBFuYMajFS824KiQ=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css</key>
